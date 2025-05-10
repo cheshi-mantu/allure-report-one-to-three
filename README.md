@@ -2,8 +2,8 @@
 
 ## Released
 
-* [Allure Report v1](https://cheshi-mantu.github.io/allure-report-one-to-three//v1)
-* [Allure Report v2](https://cheshi-mantu.github.io/allure-report-one-to-three//v2)
+* [Allure Report v1](https://cheshi-mantu.github.io/allure-report-one-to-three/v1)
+* [Allure Report v2](https://cheshi-mantu.github.io/allure-report-one-to-three/v2)
 
 ## Coming Soon
 
