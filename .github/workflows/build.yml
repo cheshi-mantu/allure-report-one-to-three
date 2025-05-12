@@ -111,11 +111,11 @@ jobs:
           with:
             name: allure-report-v3
             path: allure-report/v3
-        - name: Download Allure Report XCResults
-          uses: actions/download-artifact@v4
-          with:
-            name: allure-report-xcresults
-            path: allure-report/xcresults
+        # - name: Download Allure Report XCResults
+        #   uses: actions/download-artifact@v4
+        #   with:
+        #     name: allure-report-xcresults
+        #     path: allure-report/xcresults
         - name: Upload Allure Report
           id: deployment
           uses: actions/upload-pages-artifact@v3
