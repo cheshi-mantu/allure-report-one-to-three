@@ -64,8 +64,8 @@ jobs:
           node-version: 20
       - name: Generate Allure Report
         run: | 
-          npx allure classic allure-results/v2 --single-file -o allure-classic
-          npx allure awesome allure-results/v2 --single-file -o allure-awesome
+          npx allure classic allure-results/v2 --single-file -o allure-report/classic
+          npx allure awesome allure-results/v2 --single-file -o allure-report/awesome
           npx allure log allure-results/v2 > allure-report/report.log
       - name: Upload Allure Report
         uses: actions/upload-artifact@v4
