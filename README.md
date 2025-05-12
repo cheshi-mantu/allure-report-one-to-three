@@ -1,5 +1,9 @@
 # Allure Report from one to three
 
+## GH Pages link
+
+[Check this out.](https://cheshi-mantu.github.io/allure-report-one-to-three/)
+
 ## Already sunsetted
 
 * [Allure Report v1](https://cheshi-mantu.github.io/allure-report-one-to-three/v1)
