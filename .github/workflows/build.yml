@@ -72,28 +72,29 @@ jobs:
         with:
           name: allure-report-v3
           path: allure-report/
-  build-allure-report-xcresults:
-    runs-on: macos-latest
-    steps:
-      - uses: actions/checkout@v4
-        with: 
-          repository: allure-framework/allure3
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: |
-          sudo xcode-select -s /Applications/Xcode_16.2.app/Contents/Developer
-          yarn install 
-          yarn build
-          yarn allure awesome packages/reader/test/resources/xcresultdata/parameters/twoParameters.xcresult --single-file -o allure-report
-      - name: Upload Allure Report
-        uses: actions/upload-artifact@v4
-        with:
-          name: allure-report-xcresults
-          path: allure-report/
+  # build-allure-report-xcresults:
+  #   runs-on: macos-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #       with: 
+  #         repository: allure-framework/allure3
+  #     - uses: actions/setup-node@v4
+  #       with:
+  #         node-version: 20
+  #     - run: |
+  #         sudo xcode-select -s /Applications/Xcode_16.2.app/Contents/Developer
+  #         yarn install 
+  #         yarn build
+  #         yarn allure awesome packages/reader/test/resources/xcresultdata/parameters/twoParameters.xcresult --single-file -o allure-report
+  #     - name: Upload Allure Report
+  #       uses: actions/upload-artifact@v4
+  #       with:
+  #         name: allure-report-xcresults
+  #         path: allure-report/
   aggregate: 
       runs-on: ubuntu-latest
-      needs: [ build-allure-report-v1, build-allure-report-v2, build-allure-report-v3, build-allure-report-xcresults ]
+      needs: [ build-allure-report-v1, build-allure-report-v2, build-allure-report-v3 ]
+      # needs: [ build-allure-report-v1, build-allure-report-v2, build-allure-report-v3, build-allure-report-xcresults ]
       steps:
         - name: Download Allure Report V1
           uses: actions/download-artifact@v4
