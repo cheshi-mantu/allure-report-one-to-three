@@ -64,7 +64,7 @@ jobs:
           node-version: 20
       - name: Generate Allure Report
         run: | 
-          npx allure classic allure-results/v1 --single-file -o allure-report
+          npx allure classic allure-results/v2 --single-file -o allure-report
           npx allure awesome allure-results/v2 --single-file -o allure-report
           npx allure log allure-results/v2 > allure-report/report.log
       - name: Upload Allure Report
