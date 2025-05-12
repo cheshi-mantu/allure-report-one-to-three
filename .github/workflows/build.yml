@@ -96,6 +96,7 @@ jobs:
       needs: [ build-allure-report-v1, build-allure-report-v2, build-allure-report-v3 ]
       # needs: [ build-allure-report-v1, build-allure-report-v2, build-allure-report-v3, build-allure-report-xcresults ]
       steps:
+        - uses: actions/checkout@v4
         - name: Download Allure Report V1
           uses: actions/download-artifact@v4
           with:
@@ -116,6 +117,8 @@ jobs:
         #   with:
         #     name: allure-report-xcresults
         #     path: allure-report/xcresults
+        - name: Copy index.html to root
+          run: cp index.html allure-report/
         - name: Upload Allure Report
           id: deployment
           uses: actions/upload-pages-artifact@v3
