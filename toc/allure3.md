@@ -37,14 +37,6 @@ Commands:
 
 ### Generation of a specific HTML report by a plug-in
 
-Plugins
-
-- awesome
-- classic
-- allure2
-- csv
-
-
 #### awesome <resultsDir>
 
 All future efforts will be dedicated to this version.
@@ -71,4 +63,17 @@ or
 allure classic build/allure-results
 ```
 
+### Other reporting tasks
 
+No need to generate HTML report, then
+
+- csv
+- log
+
+```shell
+allure csv build/allure-results
+```
+
+```shell
+allure log build/allure-results
+```
