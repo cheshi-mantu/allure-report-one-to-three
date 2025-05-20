@@ -6,15 +6,11 @@
 
 2013 [Allure 1](/toc/allure1.md)
 
-
-
 ### Allure report 2
 
-[Allure 2](/toc/allure2.md)
+2016 [Allure 2](/toc/allure2.md)
 
-test results format - allure2 → json
 
-[Many](https://allurereport.org/docs/frameworks/) integrations with different frameworks. 
 
 ### Allure Report 3
 
