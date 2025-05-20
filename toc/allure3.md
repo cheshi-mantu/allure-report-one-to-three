@@ -17,8 +17,8 @@ Commands:
   allure2 <resultsDir>       Generates Allure 2 report based on provided Allure Results  // will be discontinued
   awesome <resultsDir>       Generates Allure Awesome report based on provided Allure Results // this is the future
   csv <resultsDir>           Generates CSV report based on provided Allure Results
-  dashboard <resultsDir>     Generates Allure Dashboard report based on provided Allure Results
-  generate <resultsDir>      Generates the report to specified directory
+  dashboard <resultsDir>     Generates Allure Dashboard report based on provided Allure Results // WIP
+  generate <resultsDir>      Generates the report to specified directory based on provided config (if any)
   history <resultsDir>       Generates the history to specified folder
   known-issue <resultsDir>   Generates a known issue list
   log <resultsDir>           Prints Allure Results to the console
@@ -29,5 +29,46 @@ Commands:
   testplan <resultsDir>      Generates testplan.json based on provided Allure Results
   watch <resultsDir>         Watches Allure Results changes in Real-time
 ```
+
 4. We need plug-ins
    1. Now it's easier to build plug-ins
+
+## Commands
+
+### Generation of a specific HTML report by a plug-in
+
+Plugins
+
+- awesome
+- classic
+- allure2
+- csv
+
+
+#### awesome <resultsDir>
+
+All future efforts will be dedicated to this version.
+
+Generates Allure Awesome report based on provided Allure Results
+
+```shell
+allure awesome build/allure-results
+```
+
+#### classic <resultsDir> / allure2 <resultsDir>
+
+Will ultimately be deprecated.
+
+Generates Allure 2 report based on provided Allure Results from <resultsDir>, has old Allure Report ver 2 look and feel.
+
+```shell
+allure allure2 build/allure-results
+```
+
+or
+
+```shell
+allure classic build/allure-results
+```
+
+

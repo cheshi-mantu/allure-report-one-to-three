@@ -10,8 +10,6 @@
 
 2016 [Allure 2](/toc/allure2.md)
 
-
-
 ### Allure Report 3
 
 [Allure 3](/toc/allure3.md)
