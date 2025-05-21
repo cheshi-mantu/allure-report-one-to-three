@@ -70,18 +70,5 @@ Commands:
 [history - check this out](3awesome.md)
 
 
+### Configuration files
 
-### Other reporting tasks
-
-No need to generate HTML report, then
-
-- csv
-- log
-
-```shell
-allure csv build/allure-results
-```
-
-```shell
-allure log build/allure-results
-```
