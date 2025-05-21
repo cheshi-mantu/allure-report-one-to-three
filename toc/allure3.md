@@ -65,10 +65,11 @@ Commands:
 
 ### New HTML report - His Awesomeness the Awesome
 
-#### awesome <resultsDir>
+#### awesome
 
-[history - check this out](3awesome.md)
-
+[AWESOME - check this out](3awesome.md)
 
 ### Configuration files
+
+
 

@@ -1,5 +1,7 @@
 # Allure Report 3. Preview.
 
+![Everyone wants it, eh?](cover.png)
+
 ## History
 
 ### Allure Report 1
