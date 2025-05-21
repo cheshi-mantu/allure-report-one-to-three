@@ -1,3 +1,6 @@
+## Good luck
+
+```shell
 ============================= test session starts ==============================
 platform darwin -- Python 3.13.3, pytest-8.3.3, pluggy-1.5.0
 rootdir: /Users/egorivanov/code/allure-pytest-github
@@ -46,3 +49,8 @@ test/steps/web_steps.py:89: Failed
 =========================== short test summary info ============================
 FAILED test/issues_web_test.py::test_should_add_note_to_ads - Failed: Element...
 ========================= 1 failed, 8 passed in 7.10s ==========================
+
+```
+
+
+[go back](../../toc.md)

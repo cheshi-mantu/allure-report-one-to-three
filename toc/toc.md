@@ -1,8 +1,14 @@
-# Allure Report 3. Preview.
+# Allure Report 3. Preview
 
 ![Everyone wants it, eh?](cover.png)
 
 ## History
+
+### Why
+
+Why, indeed?
+
+[have you seen the test results?](why/test-result.md)
 
 ### Allure Report 1
 
