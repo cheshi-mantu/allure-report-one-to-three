@@ -49,8 +49,17 @@ like
 allure run --rerun 2 -- ./gradlew test
 ```
 
+Reruns failed tests using `testplan.json` behind the scenes if configured.
 
+### testplan
 
+```shell
+allure run -- ./gradlew clean test
+allure testplan build/allure-results
+./clean.sh
+export ALLURE_TESTPLAN_PATH=plugin-testplan/testplan.json
+echo $ALLURE_TESTPLAN_PATH
+```
 
 
 
