@@ -63,7 +63,32 @@ allure testplan build/allure-results
 ./clean.sh
 export ALLURE_TESTPLAN_PATH=plugin-testplan/testplan.json
 echo $ALLURE_TESTPLAN_PATH
+# then again
 ```
+
+```shell
+allure testplan build/allure-results
+```
+
+```shell
+./clean.sh
+```
+
+```shell
+export ALLURE_TESTPLAN_PATH=plugin-testplan/testplan.json
+```
+
+```shell
+echo $ALLURE_TESTPLAN_PATH
+```
+
+![magic!!1](magic.png)
+
+```shell
+allure run -- ./gradlew clean test
+```
+
+
 
 #### log
 
