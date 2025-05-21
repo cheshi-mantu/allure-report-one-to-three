@@ -41,6 +41,9 @@ Commands:
 
 #### run
 
+[run](3run.md)
+
+
 `run` executes the provided command e.g. `gradle clean test`
 
 ##### Cool stuff
@@ -83,6 +86,12 @@ echo $ALLURE_TESTPLAN_PATH
 allure run -- ./gradlew clean test
 ```
 
+check the magic
+
+```shell
+allure generate build/allure-results
+allure open
+```
 
 
 #### log
