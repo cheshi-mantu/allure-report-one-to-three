@@ -30,10 +30,33 @@ Commands:
   watch <resultsDir>         Watches Allure Results changes in Real-time
 ```
 
-4. We need plug-ins
+4. We need plug-ins!!!
    1. Now it's easier to build plug-ins
 
 ## Commands
+
+### run
+
+`run` executes the provided command e.g. `gradle clean test`
+
+#### Cool stuff
+
+`--rerun N`
+
+like
+
+```shell
+allure run --rerun 2 -- ./gradlew test
+```
+
+
+
+
+
+
+
+
+
 
 ### Generation of a specific HTML report by a plug-in
 
