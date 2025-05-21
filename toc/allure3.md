@@ -53,43 +53,23 @@ Commands:
 
 #### csv
 
-[log - check this out](3csv.md)
+[csv - check this out](3csv.md)
 
 #### history
 
-[log - check this out](3history.md)
+[history - check this out](3history.md)
 
 #### watch
 
-[log - check this out](3watch.md)
+[watch - check this out](3watch.md)
 
-### Generation of a specific HTML report by a plug-in
+### New HTML report - His Awesomeness the Awesome
 
 #### awesome <resultsDir>
 
-All future efforts will be dedicated to this version.
+[history - check this out](3awesome.md)
 
-Generates Allure Awesome report based on provided Allure Results
 
-```shell
-allure awesome build/allure-results
-```
-
-#### classic <resultsDir> / allure2 <resultsDir>
-
-Will ultimately be deprecated.
-
-Generates Allure 2 report based on provided Allure Results from <resultsDir>, has old Allure Report ver 2 look and feel.
-
-```shell
-allure allure2 build/allure-results
-```
-
-or
-
-```shell
-allure classic build/allure-results
-```
 
 ### Other reporting tasks
 
