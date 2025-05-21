@@ -11,6 +11,8 @@
 3. Avoid the generation of a full report each time
    1. different commands for different tasks
 
+- [ ] use `--help` to see what is available.
+
 ```shell
 Commands:
   classic <resultsDir>       Generates Allure 2 report based on provided Allure Results // will be discontinued
