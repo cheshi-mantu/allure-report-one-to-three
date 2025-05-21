@@ -51,6 +51,17 @@ Commands:
 
 [log - check this out](3log.md)
 
+#### csv
+
+[log - check this out](3csv.md)
+
+#### history
+
+[log - check this out](3history.md)
+
+#### watch
+
+
 
 ### Generation of a specific HTML report by a plug-in
 

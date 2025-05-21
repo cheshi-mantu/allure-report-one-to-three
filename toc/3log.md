@@ -4,11 +4,9 @@
 
 ```shell
 ./gradlew clean test
-allure log build/allure-results
 ```
 
-
-
-
-
+```shell
+allure log build/allure-results
+```
 [go back](allure3.md#run)
