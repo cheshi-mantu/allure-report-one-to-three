@@ -12,3 +12,5 @@
 3. History.
    1. Static report and yet there is history!
 4. Plugins.
+
+[back to TOC](toc.md)
