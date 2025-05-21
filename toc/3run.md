@@ -15,3 +15,5 @@ allure run --rerun 2 -- ./gradlew test
 ```
 
 Reruns failed tests using `testplan.json` behind the scenes if configured.
+
+[go back](toc.md#run)

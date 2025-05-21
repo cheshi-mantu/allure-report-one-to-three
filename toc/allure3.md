@@ -41,7 +41,7 @@ Commands:
 
 #### run
 
-[run](3run.md)
+[run - check this out](3run.md)
 
 
 `run` executes the provided command e.g. `gradle clean test`
