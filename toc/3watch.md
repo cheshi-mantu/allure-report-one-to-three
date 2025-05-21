@@ -22,5 +22,4 @@ And repeat
 ./gradlew clean test
 ```
 
-
 [go back](allure3.md#watch)

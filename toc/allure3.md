@@ -61,7 +61,7 @@ Commands:
 
 #### watch
 
-
+[log - check this out](3watch.md)
 
 ### Generation of a specific HTML report by a plug-in
 
