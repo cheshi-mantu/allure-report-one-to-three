@@ -43,68 +43,13 @@ Commands:
 
 [run - check this out](3run.md)
 
-
-`run` executes the provided command e.g. `gradle clean test`
-
-##### Cool stuff
-
-`--rerun N`
-
-like
-
-```shell
-allure run --rerun 2 -- ./gradlew test
-```
-
-Reruns failed tests using `testplan.json` behind the scenes if configured.
-
 #### testplan
 
-```shell
-allure run -- ./gradlew clean test
-```
-
-```shell
-allure testplan build/allure-results
-```
-
-```shell
-./clean.sh
-```
-
-```shell
-export ALLURE_TESTPLAN_PATH=plugin-testplan/testplan.json
-```
-
-```shell
-echo $ALLURE_TESTPLAN_PATH
-```
-
-![magic!!1](magic.png)
-
-```shell
-allure run -- ./gradlew clean test
-```
-
-check the magic
-
-```shell
-allure generate build/allure-results
-allure open
-```
-
+[testplan - check this out](3testplan.md)
 
 #### log
 
-- [ ] if you need console logs only, only errors, only hardcore
-
-```shell
-./gradlew clean test
-allure log build/allure-results
-```
-
-
-
+[log - check this out](3log.md)
 
 
 ### Generation of a specific HTML report by a plug-in
