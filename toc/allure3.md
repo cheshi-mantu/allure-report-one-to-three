@@ -59,11 +59,6 @@ Reruns failed tests using `testplan.json` behind the scenes if configured.
 
 ```shell
 allure run -- ./gradlew clean test
-allure testplan build/allure-results
-./clean.sh
-export ALLURE_TESTPLAN_PATH=plugin-testplan/testplan.json
-echo $ALLURE_TESTPLAN_PATH
-# then again
 ```
 
 ```shell
