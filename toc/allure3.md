@@ -73,11 +73,8 @@ Commands:
 
 [configs - check this out](3configs.md)
 
-
 ## What's next?
 
-
 [What's next?](3configs.md)
-
 
 [back to TOC](toc.md)
