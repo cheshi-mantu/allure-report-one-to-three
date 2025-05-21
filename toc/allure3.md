@@ -33,15 +33,17 @@ Commands:
 ```
 
 4. We need plug-ins!!!
-   1. Now it's easier to build plug-ins
+   1. Now it's easier to build plug-ins.
 
 ## Commands
 
-### run
+### Completely new stuff
+
+#### run
 
 `run` executes the provided command e.g. `gradle clean test`
 
-#### Cool stuff
+##### Cool stuff
 
 `--rerun N`
 
@@ -53,7 +55,7 @@ allure run --rerun 2 -- ./gradlew test
 
 Reruns failed tests using `testplan.json` behind the scenes if configured.
 
-### testplan
+#### testplan
 
 ```shell
 allure run -- ./gradlew clean test
@@ -63,7 +65,14 @@ export ALLURE_TESTPLAN_PATH=plugin-testplan/testplan.json
 echo $ALLURE_TESTPLAN_PATH
 ```
 
+#### log
 
+- [ ] if you need console logs only, only errors, only hardcore
+
+```shell
+./gradlew clean test
+allure log build/allure-results
+```
 
 
 
