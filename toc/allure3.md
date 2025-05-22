@@ -75,7 +75,7 @@ Commands:
 
 ## What's next?
 
-[What's next?](3configs.md)
+[What's next?](3whatsnext.md)
 
 
 ## Plugins
