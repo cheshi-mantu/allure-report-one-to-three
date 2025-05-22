@@ -1,6 +1,6 @@
 # Once upon a time...
 
-![](far-far-away.png)
+![](../far-far-away.png)
 
 ## Java JUnit5 test result
 
