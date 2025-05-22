@@ -3,6 +3,7 @@
 
 - [ ] this awesome report will ultimately replace all others
 - [ ] All future efforts will be dedicated to this version.
+- [ ] Used by default for the `generate` command
 
 ```shell
 ./gradlew clean test
