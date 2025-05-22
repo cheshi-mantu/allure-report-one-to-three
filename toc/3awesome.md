@@ -30,7 +30,7 @@ or
 allure classic build/allure-results
 ```
 
-
+![go to allure3 awesome](qr.gif)
 
 
 

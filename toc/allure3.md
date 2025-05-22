@@ -78,3 +78,9 @@ Commands:
 [What's next?](3configs.md)
 
 [back to TOC](toc.md)
+
+## Plugins
+
+No stop here today. Still, here is an example of a plugin that will send a message to telegram.
+
+![](qr-tlg-send-plugin.png)
