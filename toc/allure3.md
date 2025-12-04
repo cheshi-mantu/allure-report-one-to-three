@@ -84,4 +84,4 @@ No stop here today. Still, here is an example of a plugin that will send a messa
 
 ![](qr-tlg-send-plugin.png)
 
-[back to TOC](toc.md)
+[back to History](history.md)
