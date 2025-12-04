@@ -77,7 +77,6 @@ Commands:
 
 [What's next?](3whatsnext.md)
 
-
 ## Plugins
 
 No stop here today. Still, here is an example of a plugin that will send a message to telegram.
