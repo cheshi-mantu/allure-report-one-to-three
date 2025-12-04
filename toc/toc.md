@@ -1,23 +1,19 @@
-# Allure Report 3. Preview
+# Allure Report 3. What's new?
 
 ![Everyone wants it, eh?](cover.png)
 
-## History
+## whoami
 
-### Why
+[Egor:]
 
-Why, indeed?
+Hi, my name is Egor *[jego'r]*
 
-[have you seen the test results?](why/test-result.md)
+I'm the head of the tech support of Allure TestOps at AllureTeam (https://allureteam.com) 
 
-### Allure Report 1
+## The Agenda for today's webinar
 
-2013 [Allure 1](/toc/allure1.md)
+1. [Historical reference (I'll be quick)](history.md)
+2. What are the dramatic changes in Allure3?
+3. Closer to the tests, faster report generation
+4. Selected features
 
-### Allure report 2
-
-2016 [Allure 2](/toc/allure2.md)
-
-### Allure Report 3
-
-2024 [Allure 3](/toc/allure3.md)
