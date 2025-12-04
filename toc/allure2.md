@@ -13,4 +13,6 @@
    1. Static report and yet there is history!
 4. Plugins.
 
+[Here is the demo of the report.](https://allure-framework.github.io/allure-demo/10/index.html)
+
 [back to History](history.md)
