@@ -1,6 +1,18 @@
 # Allure 3
 
+## As is and To be
+
+### As is
+
+![](as-it-was-allure2.png)
+
+
+
+
 ## Issues to be resolved
+
+
+
 
 1. You are JS/TS and suddenly you need Java to see the report.
    1. what?!
