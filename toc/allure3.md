@@ -2,9 +2,27 @@
 
 ## As is and To be
 
-### As is
+### As is in Allure2
 
 ![](as-it-was-allure2.png)
+
+```shell
+pnpm test
+# install java to your pipeline
+allure generate
+allure open
+# do something with the report
+```
+
+### As is in Allure3
+
+![](as-it-is-allure3.png)
+
+```shell
+pnpm allure run --rerun 3 -- pnpm test
+```
+
+#### What has changed?
 
 
 
