@@ -16,4 +16,4 @@ Why, indeed?
 
 ### Allure Report 3
 
-2025 [Allure 3]([/toc/allure3.md](https://allure-framework.github.io/allure3-demo/))
+2025 [Allure 3](https://allure-framework.github.io/allure3-demo)
