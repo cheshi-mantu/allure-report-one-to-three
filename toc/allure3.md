@@ -24,23 +24,23 @@ pnpm allure run --rerun 3 -- pnpm test
 
 #### What has changed?
 
-Report → Tool
+Report → Set of Tools
 
 1. Modern Technology stack
-      1. `npm install allure`
-      2. `npx allure`
+   1. `npm install allure`
+   1. `npx allure`
 2. Generation of the report itself is optional
 3. Run your favourite plug-in
-      1. allure2
-      2. awesome
-      3. csv
-      4. dashboard
-      5. log
-      6. jira
-      7. slack
-      8. testplan
-      9. and others that do not exist yet
-4. act based on the previous results
+   1. allure2
+   2. awesome
+   3. csv
+   4. dashboard
+   5. log
+   6. jira
+   7. slack
+   8. testplan
+   9. and others that do not exist yet
+4. Act based on the previous results
 
 
 ## Commands
