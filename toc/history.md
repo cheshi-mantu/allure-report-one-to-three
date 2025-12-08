@@ -17,3 +17,4 @@ Why, indeed?
 ### Allure Report 3
 
 2025 [Allure 3](https://allure-framework.github.io/allure3-demo)
+
