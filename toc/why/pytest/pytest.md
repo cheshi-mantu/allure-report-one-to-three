@@ -53,4 +53,4 @@ FAILED test/issues_web_test.py::test_should_add_note_to_ads - Failed: Element...
 ```
 
 
-[go back](../../history.md)
+[go back](../test-result.md)
