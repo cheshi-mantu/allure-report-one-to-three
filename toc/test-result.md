@@ -1,5 +1,26 @@
-## Good luck
+# Once upon a time...
 
+![](../far-far-away.png)
+
+## Java JUnit5 test result
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.qameta.allure.IssuesRestTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-16T16:16:32" hostname="gogi-mbp.local" time="0.256">
+  <properties/>
+  <testcase name="(First Note)" classname="io.qameta.allure.IssuesRestTest" time="0.232"/>
+  <testcase name="(Second Note)" classname="io.qameta.allure.IssuesRestTest" time="0.005"/>
+  <testcase name="(First Note)" classname="io.qameta.allure.IssuesRestTest" time="0.002"/>
+  <testcase name="(Second Note)" classname="io.qameta.allure.IssuesRestTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
+```
+
+
+## Pytest Test Results
+
+```shell
 ```shell
 ============================= test session starts ==============================
 platform darwin -- Python 3.13.3, pytest-8.3.3, pluggy-1.5.0
@@ -49,9 +70,9 @@ test/steps/web_steps.py:89: Failed
 =========================== short test summary info ============================
 FAILED test/issues_web_test.py::test_should_add_note_to_ads - Failed: Element...
 ========================= 1 failed, 8 passed in 7.10s ==========================
-
 ```
 
+- Please send the team of interpreters!
 
-[go back](../test-result.md)
 
+[back](../toc.md#the-agenda-for-todays-webinar)

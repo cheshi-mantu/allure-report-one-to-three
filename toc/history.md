@@ -4,7 +4,7 @@
 
 Why, indeed?
 
-[have you seen the test results?](why/test-result.md)
+[have you seen the test results?](test-result.md)
 
 ### Allure Report 1
 
@@ -18,4 +18,4 @@ Why, indeed?
 
 2025 [Allure 3](https://allure-framework.github.io/allure3-demo)
 
-[back](toc.md#the-agenda-for-todays-webinar)
+[back](../../history.md)
