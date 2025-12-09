@@ -8,11 +8,12 @@
 
 ```shell
 pnpm test
-# install java to your pipeline
+# install Java to your pipeline
+# install allure to your pipeline
 allure generate
 allure open
 # do something with the report
 ```
 
 
-[back to History](history.md)
+[to be](allure3-now.md)

@@ -13,7 +13,7 @@ I'm the head of the tech support of Allure TestOps at AllureTeam (https://allure
 ## The Agenda for today's webinar
 
 1. [Historical reference (I'll be quick)](history.md)
-2. What are the dramatic changes in Allure3?
+2. [What are the dramatic changes in Allure3?](allure3-before.md)
 3. Closer to the tests, faster report generation
 4. Selected features
 
