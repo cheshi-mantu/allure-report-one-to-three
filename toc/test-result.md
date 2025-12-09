@@ -75,4 +75,4 @@ FAILED test/issues_web_test.py::test_should_add_note_to_ads - Failed: Element...
 - Please send the team of interpreters!
 
 
-[back](./toc.md#the-agenda-for-todays-webinar)
+[back](./history.md)
