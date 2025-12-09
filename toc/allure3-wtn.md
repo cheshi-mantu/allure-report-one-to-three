@@ -14,4 +14,13 @@ Report → Set of Tools
    3. get the work result of the plugin
    4. act
 
+
+### Allure3 repo
+
+|URL|QR|
+|---|---|
+|https:\//github.com/allure-framework/allure3/tree/main/packages|![](allure3-repo.png)|
+
+
+
 [plugins](allure3-plugins.md)
