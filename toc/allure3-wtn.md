@@ -14,7 +14,6 @@ Report → Set of Tools
    3. get the work result of the plugin
    4. act
 
-
 ### Allure3 repo
 
 |URL|QR|
