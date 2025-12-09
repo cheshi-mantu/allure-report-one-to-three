@@ -14,3 +14,9 @@ Current plug-ins:
    8. slack
    9. testplan
 
+## Docs
+
+|URL|QR|
+|---|---|
+|https\://allurereport.org/docs/v3/|![](allure3-docs.png)|
+
