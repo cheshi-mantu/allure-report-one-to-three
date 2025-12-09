@@ -13,3 +13,5 @@ Report → Set of Tools
    2. select [a plugin](https://github.com/allure-framework/allure3/tree/main/packages)
    3. get the work result of the plugin
    4. act
+
+[plugins](allure3-plugins.md)
