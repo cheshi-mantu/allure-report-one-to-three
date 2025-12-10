@@ -42,6 +42,4 @@ pnpm allure run --config=./allurerc.mjs -- pnpm test
 `uploadResults` - if there is link to an issue
 `uploadReport` - the stats of the current execution
 
-
-
 [back](toc.md)
