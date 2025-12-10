@@ -42,4 +42,10 @@ pnpm allure run --config=./allurerc.mjs -- pnpm test
 `uploadResults` - if there is link to an issue
 `uploadReport` - the stats of the current execution
 
+### Clear data from JSC
+
+```shell
+pnpm allure jira clear --issue ARFJ-4 --reports --results
+```
+
 [back](toc.md)
