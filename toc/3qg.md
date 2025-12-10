@@ -73,4 +73,4 @@ pnpm allure run --config=./allurerc.mjs -- pnpm test
 
 [Example here](https://github.com/cheshi-mantu/pw-allure-three-features/actions)
 
-[go back](allure3.md#run)
+[go back](3selection.md)

@@ -19,4 +19,4 @@ allure run --rerun 2 -- pnpm test
 
 [Quality Gates](3qg.md)
 
-[go back](allure3.md#run)
+[go back](3selection.md)
