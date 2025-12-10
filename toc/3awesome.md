@@ -29,9 +29,7 @@ Report
 pnpm allure generate
 ```
 
-
-
-## Open report
+### Open report
 
 ```shell
 pnpm allure open
