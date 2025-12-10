@@ -9,8 +9,7 @@ Before we start. [Quick overview of the configuration.](3configs.md)
 1. [His Majesty `Awesome`.](3awesome.md)
 2. [Local development - `watch`.](3watch.md)
 3. [Tests execution](3run.md)
-   1. `run`
-   2. Quality Gates
+   1. `run` with Quality Gates
 4. GitHub action
 5. Jira Software Cloud plug-in
 
