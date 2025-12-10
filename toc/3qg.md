@@ -6,20 +6,20 @@
 
 ### Config
 
-```json
-  qualityGate: {
-    rules: [
-      {
-        maxFailures: 3,
-        fastFail: true,
-      },
-    ],
-  },
+```text
+qualityGate: {
+	rules: [
+		{
+		maxFailures: 3,
+		fastFail: true,
+		},
+	],
+},
 ```
 
 something more complex
 
-```json
+```text
 qualityGate: {
     rules: [
       {
