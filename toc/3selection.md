@@ -13,3 +13,5 @@ Before we start. [Quick overview of the configuration.](3configs.md)
    2. Quality Gates
 4. GitHub action
 5. Jira Software Cloud plug-in
+
+[TOC](toc.md)
