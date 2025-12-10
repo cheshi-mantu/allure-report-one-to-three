@@ -9,7 +9,7 @@
 like
 
 ```shell
-allure run --rerun 2 -- pnpm test
+pnpm allure run --config=./allurerc.mjs --rerun 2 -- pnpm test
 ```
 
 1. Run tests

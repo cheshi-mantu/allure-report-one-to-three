@@ -31,5 +31,17 @@ export default defineConfig({
   },
 });
 ```
+then as usual
+
+```shell
+pnpm allure run --config=./allurerc.mjs -- pnpm test
+```
+
+### parameters
+
+`uploadResults` - if there is link to an issue
+`uploadReport` - the stats of the current execution
+
+
 
 [back](toc.md)
