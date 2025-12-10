@@ -49,7 +49,7 @@ pnpm allure open
         charts: chartLayout,
         filter: ({ labels }) => labels.find(({ name, value }) => name === "epic" && value === "Projects"),
       },
-    },
-
+    }
 ```
+
 [go back](3selection.md)
