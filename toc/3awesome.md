@@ -39,6 +39,7 @@ pnpm allure open
 ## Config
 
 ```json
+    {
     awesomeEpicProjects: {
       import: "@allurereport/plugin-awesome",
       options: {
@@ -49,6 +50,7 @@ pnpm allure open
         charts: chartLayout,
         filter: ({ labels }) => labels.find(({ name, value }) => name === "epic" && value === "Projects"),
       },
+    }
     }
 ```
 
