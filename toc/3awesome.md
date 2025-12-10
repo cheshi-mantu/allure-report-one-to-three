@@ -38,7 +38,7 @@ pnpm allure open
 
 ## Config
 
-```json
+```text
 awesomeEpicProjects: {
   import: "@allurereport/plugin-awesome",
   options: {
