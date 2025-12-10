@@ -51,6 +51,4 @@ pnpm allure open
     },
 
 ```
-
-
 [go back](3selection.md)

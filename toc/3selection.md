@@ -7,7 +7,7 @@ Before we start. [Quick overview of the configuration.](3configs.md)
 ## Selected features
 
 1. [His Majesty `Awesome`.](3awesome.md)
-2. Local development - `watch`.
+2. [Local development - `watch`.](3watch.md)
 3. Tests execution
    1. `run`
    2. Quality Gates

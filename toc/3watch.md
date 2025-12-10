@@ -4,22 +4,28 @@
 
 ### why?
 
-Local development on a loop
+Local development without repeating actions.
 
 ```shell
-./gradlew clean test
+pnpm test
 ```
 
 instead of generating report after each local build
 
 ```shell
-allure watch --name "Local build watch" build/allure-results
+allure watch --config=./allurerc.mjs --name "Local build watch" ./allure-results
 ```
 
 And repeat
 
 ```shell
-./gradlew clean test
+pnpm test
 ```
+
+## Usage
+
+1. Local development.
+2. Stop local execution if everything went south.
+
 
 [go back](allure3.md#watch)
