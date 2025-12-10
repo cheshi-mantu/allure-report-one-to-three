@@ -1,38 +1,23 @@
 # His Awesomeness the awesome report
 
+- [x] this awesome report will ultimately replace all others
+- [x] All future efforts will be dedicated to this version.
+- [x] Used by default for the `generate` command
 
-- [ ] this awesome report will ultimately replace all others
-- [ ] All future efforts will be dedicated to this version.
-- [ ] Used by default for the `generate` command
+1. Create config
+2. Execute tests
+3. Open report // publish report
 
-```shell
-./gradlew clean test
-```
-
-```shell
-allure awesome build/allure-results
-```
-
-Still available, but will be sunsetted
-
-## classic <resultsDir> / allure2 <resultsDir>
-
-Will ultimately be deprecated.
-
-Generates Allure 2 report based on provided Allure Results from <resultsDir>, has old Allure Report ver 2 look and feel.
+## Generate results and report
 
 ```shell
-allure allure2 build/allure-results
+pnpm allure run --config=./allurerc.mjs -- pnpm test
 ```
-
-or
+## Open report
 
 ```shell
-allure classic build/allure-results
+pnpm allure open
 ```
 
-![go to allure3 awesome](qr.gif)
 
-
-
-[go back](allure3.md#awesome)
+[go back](3selection.md)
