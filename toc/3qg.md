@@ -61,11 +61,16 @@ export const maxFailuresRule: QualityGateRule<number> = {
 };
 ```
 
-
 1. Run tests
 2. Collect failed tests and save to `testplan.json`
 3. Run tests again using `testplan.json`
 
+### Execution
 
+```shell
+pnpm allure run --config=./allurerc.mjs -- pnpm test
+```
+
+[Example here](https://github.com/cheshi-mantu/pw-allure-three-features/actions)
 
 [go back](allure3.md#run)
