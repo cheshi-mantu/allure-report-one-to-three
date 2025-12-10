@@ -10,7 +10,7 @@ Before we start. [Quick overview of the configuration.](3configs.md)
 2. [Local development - `watch`.](3watch.md)
 3. [Tests execution](3run.md)
    1. `run` with Quality Gates
-4. GitHub action
+4. [GitHub action](3action.md)
 5. Jira Software Cloud plug-in
 
 [TOC](toc.md)
