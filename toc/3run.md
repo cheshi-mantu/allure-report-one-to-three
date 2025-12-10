@@ -1,19 +1,22 @@
 # run
 
-## Completely new stuff
+`run` executes the provided command e.g. `pnpm test`
 
-`run` executes the provided command e.g. `gradle clean test`
-
-## Cool stuff
+## Cool stuff – rerun
 
 `--rerun N`
 
 like
 
 ```shell
-allure run --rerun 2 -- ./gradlew test
+allure run --rerun 2 -- pnpm test
 ```
 
-Reruns failed tests using `testplan.json` behind the scenes if configured.
+1. Run tests
+2. Collect failed tests and save to `testplan.json`
+3. Run tests again using `testplan.json`
+
+
+[Quality Gates](3qg.md)
 
 [go back](allure3.md#run)
