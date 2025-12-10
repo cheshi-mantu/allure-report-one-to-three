@@ -1,7 +1,7 @@
 # configs
 
 1. Yes, will be documented
-2. Configs allow to set configuration for all mudules.
+2. Configs allow to set configuration for all modules.
 3. Configs allow to create multi-reports
 
 ## how?
