@@ -1,6 +1,6 @@
 # Allure Report 3. What's new?
 
-![Everyone wants it, eh?](cover.png)
+![Allure3 tech talk](tech-talk.png)
 
 ## whoami
 
