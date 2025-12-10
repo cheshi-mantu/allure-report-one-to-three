@@ -39,19 +39,17 @@ pnpm allure open
 ## Config
 
 ```json
-    {
-    awesomeEpicProjects: {
-      import: "@allurereport/plugin-awesome",
-      options: {
-        reportName: "Epic Projects",
-        singleFile: false,
-        reportLanguage: "en",
-        open: false,
-        charts: chartLayout,
-        filter: ({ labels }) => labels.find(({ name, value }) => name === "epic" && value === "Projects"),
-      },
-    }
-    }
+awesomeEpicProjects: {
+  import: "@allurereport/plugin-awesome",
+  options: {
+    reportName: "Epic Projects",
+    singleFile: false,
+    reportLanguage: "en",
+    open: false,
+    charts: chartLayout,
+    filter: ({ labels }) => labels.find(({ name, value }) => name === "epic" && value === "Projects"),
+  },
+}
 ```
 
 [go back](3selection.md)
