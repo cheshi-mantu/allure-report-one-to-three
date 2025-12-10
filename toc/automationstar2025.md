@@ -2,7 +2,7 @@
 
 <table border="1">
   <tr>
-    <td>![](as2025.png)</td>
+    <td><img src="https://github.com/cheshi-mantu/allure-report-one-to-three/blob/master/toc/as2025.png"/></td>
     <td>Row 1, Cell 2</td>
   </tr>
 </table>
