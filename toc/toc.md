@@ -17,3 +17,4 @@ I'm the head of the tech support of Allure TestOps at AllureTeam (https://allure
 3. [Selected features](3selection.md)
 4. [Homework from AutomationStar2025](automationstar2025.md)
 
+[TOC](toc.md)
