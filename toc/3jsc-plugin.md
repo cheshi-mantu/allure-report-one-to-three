@@ -31,6 +31,7 @@ export default defineConfig({
   },
 });
 ```
+
 then as usual
 
 ```shell
