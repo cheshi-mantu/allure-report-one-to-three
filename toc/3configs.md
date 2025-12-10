@@ -2,7 +2,8 @@
 
 1. Yes, will be documented
 2. Configs allow to set configuration for all modules.
-3. Configs allow to create multi-reports
+3. Configs allow creation of multi-reports
+   1. same report type with different configs (e.g. filters)
 
 ## how?
 
@@ -18,43 +19,21 @@ export default defineConfig({
   plugins: {
     awesome: {
       options: {
-        reportName: "Awesome report",
-        singleFile: true,
-		groupBy: ["msrv", "feature","story"]
+        reportName: "Very genuine fake tests, no SMS",
+        singleFile: false,
+        reportLanguage: "en",
+        open: false,
+        groupBy: ["epic","feature","story"],
+        charts: chartLayout,
       },
     },
-    classic: {
-      options: {
-        reportName: "Classic Allure2 like report",
-        singleFile: true,
-        reportLanguage: "es",
-		groupBy: ["msrv", "feature"]
-      },
-    }, 
     log: {
       options: {
         groupBy: "none"
         },
-    },
-    csv: {
-      options: {
-        fileName: "allure-report.csv",
-      }
     }
   }
 });
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-[go back](allure3.md#watch)
+[go back](3selection.md)
