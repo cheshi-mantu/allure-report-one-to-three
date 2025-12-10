@@ -13,6 +13,7 @@
 ```shell
 pnpm allure run --config=./allurerc.mjs -- pnpm test
 ```
+
 ## Open report
 
 ```shell
