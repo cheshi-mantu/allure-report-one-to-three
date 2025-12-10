@@ -11,6 +11,6 @@ Before we start. [Quick overview of the configuration.](3configs.md)
 3. [Tests execution](3run.md)
    1. `run` with Quality Gates
 4. [GitHub action](3action.md)
-5. Jira Software Cloud plug-in
+5. [Jira Software Cloud plug-in](3jsc-plugin.md)
 
 [TOC](toc.md)
