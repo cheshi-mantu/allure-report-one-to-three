@@ -11,5 +11,5 @@ We'll do some polls. We really need your opinion and feedback.
 
 ## FAQ
 
-Q: Will you do the recording?
+Q: Will you do the recording?  
 A: Yes.
