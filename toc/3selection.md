@@ -13,4 +13,4 @@ Before we start. [Quick overview of the configuration.](3configs.md)
 4. [GitHub action](3action.md)
 5. [Jira Software Cloud plug-in](3jsc-plugin.md)
 
-[TOC](toc.md)
+[TOC](agenda.md)

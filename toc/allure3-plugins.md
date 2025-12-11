@@ -26,4 +26,4 @@ We started creating docs for the new version of Allure Report.
 - Each plugin has the docs.
 - There is [sandbox](https://github.com/allure-framework/allure3/tree/main/packages/sandbox)
 
-[to TOC](toc.md#the-agenda-for-todays-webinar)
+[to TOC](agenda.md)
