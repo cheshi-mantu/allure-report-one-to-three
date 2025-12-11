@@ -1,5 +1,13 @@
 # Allure 3
 
+## Docs
+
+We started creating docs for the new version of Allure Report.
+
+|URL|QR|
+|---|---|
+|https\://allurereport.org/docs/v3/|![](allure3-docs.png)|
+
 ## Everything is a plug-in
 
 Current plug-ins:
@@ -12,14 +20,6 @@ Current plug-ins:
    7. jira
    8. slack
    9. testplan
-
-## Docs
-
-We started creating docs for the new version of Allure Report.
-
-|URL|QR|
-|---|---|
-|https\://allurereport.org/docs/v3/|![](allure3-docs.png)|
 
 ### Docs right at the code
 
