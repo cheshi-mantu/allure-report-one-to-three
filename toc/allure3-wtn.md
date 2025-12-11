@@ -1,5 +1,12 @@
 # Allure 3
 
+### Allure3 repo
+
+|URL|QR|
+|---|---|
+|https:\//github.com/allure-framework/allure3/tree/main/packages|![](allure3-repo.png)|
+
+
 ## So, what changed?
 
 Report → Set of Tools
@@ -14,11 +21,6 @@ Report → Set of Tools
    3. get the work result of the plugin
    4. act
 
-### Allure3 repo
-
-|URL|QR|
-|---|---|
-|https:\//github.com/allure-framework/allure3/tree/main/packages|![](allure3-repo.png)|
 
 
 
