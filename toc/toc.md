@@ -2,13 +2,10 @@
 
 ![Allure3 tech talk](tech-talk.png)
 
-## whoami
+## who is talking
 
-[Egor:]
+[whooo?](talking.md)
 
-Hi, my name is Egor *[jego'r]*
-
-I'm the head of the tech support of Allure TestOps at AllureTeam (https://allureteam.com) 
 
 ## The Agenda for today's webinar
 
