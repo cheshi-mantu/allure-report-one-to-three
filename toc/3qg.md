@@ -61,10 +61,6 @@ export const maxFailuresRule: QualityGateRule<number> = {
 };
 ```
 
-1. Run tests
-2. Collect failed tests and save to `testplan.json`
-3. Run tests again using `testplan.json`
-
 ### Execution
 
 ```shell
