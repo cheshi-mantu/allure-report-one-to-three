@@ -49,4 +49,4 @@ pnpm allure run --config=./allurerc.mjs -- pnpm test
 pnpm allure jira clear --issue ARFJ-4 --reports --results
 ```
 
-[back](toc.md)
+[back](agenda.md)
