@@ -1,6 +1,6 @@
 # Allure 3
 
-## What has changed?
+## So, what changed?
 
 Report → Set of Tools
 
