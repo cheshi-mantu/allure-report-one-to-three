@@ -14,4 +14,6 @@ Inspired by cucumber and serenity framework.
 
 1st commit November 2013
 
+[Allure1 example](https://cheshi-mantu.github.io/allure-report-one-to-three/v1/)
+
 [back to History](history.md)
