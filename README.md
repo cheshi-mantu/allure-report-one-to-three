@@ -17,3 +17,7 @@
 * [Allure Report v3 Classic](https://cheshi-mantu.github.io/allure-report-one-to-three/v3/classic)
 * [Allure Report v3 Awesome](https://cheshi-mantu.github.io/allure-report-one-to-three/v3/awesome)
 * [Allure Report v3 Log](https://cheshi-mantu.github.io/allure-report-one-to-three/v3/report.log)
+
+## Text slides
+
+[](./toc/toc.md)
