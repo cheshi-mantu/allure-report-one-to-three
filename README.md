@@ -20,4 +20,4 @@
 
 ## Text slides
 
-[](./toc/toc.md)
+[toc](./toc/toc.md)
