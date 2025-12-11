@@ -6,13 +6,12 @@
 |---|---|
 |https:\//github.com/allure-framework/allure3/tree/main/packages|![](allure3-repo.png)|
 
-
 ## So, what changed?
 
 Report → Set of Tools
 
 1. Modern Technology stack
-   1. No Java
+   1. No more Java.
    2. `npm install allure`
    3. `npx allure`
 2. Almost everything is a plug-in
